@@ -1,2 +1,2 @@
 # U-SDA
-Ukraine sustanable development academy
+Ukraine Sustanable Development Academy
