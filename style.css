@@ -1,0 +1,30 @@
+div {
+    
+    margin: 100px;
+}
+
+q {
+    text-decoration: underline;
+}
+
+a:hover {
+    color: red;
+    transition: color 0.3s ease-in-out;
+}
+
+body {
+    background-image: url('https://img.freepik.com/free-photo/grunge-paint-background_1409-1337.jpg?w=2000');
+    background-attachment: fixed;
+}
+
+table{
+    width: 100%;
+    border: 3px dashed black;
+    border-spacing: 50px;
+}
+
+th, td {
+    background-color: aqua;
+    border: 2px black solid;
+    border-radius: 10px;
+}
