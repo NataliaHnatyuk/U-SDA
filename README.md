@@ -1,2 +1,2 @@
-# USD-A
+# U-SDA
 Ukraine sustanable development academy
